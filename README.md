@@ -23,7 +23,7 @@ Cvičiaci predmetu:
 
 Prednášky sú v stredu o 9:10 online prostredníctvom MS Teams. Prítomnosť nie je povinná.
 
-Cvičenia sú v pondelok o 9:10 a 10:50, a v utorok o 9:10 v miestnosti PK6_108 - PC17. Realizácia cvičení sa riadi platnými opatreniami v súvislosti s pandémiou CoViD-19. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo absolvovaním online cvičenia.
+Cvičenia sú v pondelok o 9:10 a 10:50, a v utorok o 9:10 v miestnosti PK6_108 - PC17. Online cvičenie je na MS Teamse v stredu o 7:30. Realizácia cvičení sa riadi platnými opatreniami v súvislosti s pandémiou CoViD-19. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení po dohode s vyučujúcim alebo absolvovaním online cvičenia.
 
 |              Týždeň             |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|
