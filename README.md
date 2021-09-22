@@ -27,7 +27,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, a v utorok o 9:10 v miestnosti PK6_108 
 
 |              Týždeň             |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|
-| 1. týždeň<br>20. 9. - 26. 9.    | Úvod <br> Základy objektovo orientovaného programovania |
+| 1. týždeň<br>20. 9. - 26. 9.    | [Úvod](lectures/Lecture-00.pdf) <br> [Základy objektovo orientovaného programovania](lectures/Lecture-01.pdf) |
 | 2. týždeň<br>27. 9. - 3. 10.    |                    Enkapsulácia v OOP                   |
 | 3. týždeň<br>4. 10. - 10. 10.   |                       Dedenie v OOP                     |
 | 4. týždeň<br>11. 10. - 17. 10.  |                     Hierarchia tried                    |
