@@ -30,7 +30,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, a v utorok o 9:10 v miestnosti PK6_108 
 | 1. týždeň<br>20. 9. - 26. 9.    | [Úvod](lectures/Lecture-00.pdf) <br> [Základy objektovo orientovaného programovania](lectures/Lecture-01.pdf) ([kód z prednášky](lectures/codes/Lecture01.zip)) |
 | 2. týždeň<br>27. 9. - 3. 10.    | [Enkapsulácia v OOP](lectures/Lecture-02.pdf) <br> ([kód z prednášky](lectures/codes/Lecture02.zip)) |
 | 3. týždeň<br>4. 10. - 10. 10.   | [Dedenie v OOP](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/Lecture03.zip)) |
-| 4. týždeň<br>11. 10. - 17. 10.  |                     Hierarchia tried                    |
+| 4. týždeň<br>11. 10. - 17. 10.  | [Abstraktné triedy a rozhrania](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/Lecture04.zip)) |
 | 5. týždeň<br>18. 10. - 24. 10.  |                    Polymorfizmus v OOP                  |
 | 6. týždeň<br>25. 10. - 31. 10.  |                 Vybrané dátové typy v C#                |
 | 7. týždeň<br>1. 11. - 7. 11.    |                  Generické programovanie                |
