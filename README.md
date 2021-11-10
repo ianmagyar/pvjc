@@ -34,7 +34,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, a v utorok o 9:10 v miestnosti PK6_108 
 | 5. týždeň<br>18. 10. - 24. 10.  | [Polymorfizmus v OOP](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/Lecture05.zip)) |
 | 6. týždeň<br>25. 10. - 31. 10.  | [Vybrané dátové typy v C#](lectures/Lecture-06.pdf) <br> ([kód z prednášky](lectures/codes/Lecture06.zip)) |
 | 7. týždeň<br>1. 11. - 7. 11.    | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip)) |
-| 8. týždeň<br>8. 11. - 14. 11.   |                   Spracovanie výnimiek                  |
+| 8. týždeň<br>8. 11. - 14. 11.   | [Spracovanie výnimiek](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/Lecture08.zip)) |
 | 9. týždeň<br>15. 11. - 21. 11.  |                      štátny sviatok                     |
 | 10. týždeň<br>22. 11. - 28. 11. |                      Návrhové vzory                     |
 | 11. týždeň<br>29. 11. - 5. 12.  |                      Návrhové vzory                     |
