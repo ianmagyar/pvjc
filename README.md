@@ -16,6 +16,7 @@ Cvičiaci predmetu:
 ## Obsah
 1. [Plán prednášok](#plan)
 2. [Hodnotenie](#grading)
+3. [Použitá literatúra](#literature)
 
 ## Plán prednášok <a name="plan"></a>
 Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Prítomnosť nie je povinná.
