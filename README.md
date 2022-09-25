@@ -25,7 +25,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, v utorok o 10:50 a v stredu o 7:30, vš
 
 |              Týždeň             |                         Cvičenie                        |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| 1. týždeň<br>26. 9. - 2. 10.    | Úvodné stretnutie, základy jazyka C#                    | Úvod <br> Základy jazyka C# a OOP                       |
+| 1. týždeň<br>26. 9. - 2. 10.    | [Úvodné stretnutie, základy jazyka C#](labs/lab01.md)   | Úvod <br> Základy jazyka C# a OOP                       |
 | 2. týždeň<br>3. 10. - 9. 10.    | Programovanie v C#                                      | Konštruktory a enkapsulácia                             |
 | 3. týždeň<br>10. 10. - 16. 10.  | Nastavenie prostredia, vytvorenie projektu              | Dedenie v OOP                                           |
 | 4. týždeň<br>17. 10. - 23. 10.  | Rozhrania a triedy                                      | Abstraktné triedy a rozhrania                           |
