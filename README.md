@@ -41,6 +41,8 @@ Cvičenia sú v pondelok o 9:10 a 10:50, v utorok o 10:50 a v stredu o 7:30, vš
 
 ## Hodnotenie <a name="grading"></a>
 
+* [Zadanie 1](assignments/assignment1.md)
+
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
 Zápočet sa skladá z dvoch zadaní a bodov za cvičenia: za prvé zadanie môžete získať 10 bodov, za druhé zadanie 20 bodov. Počas semestra máte možnosť pozbierať zvyšné body za vypracovanie bonusovej úlohy na cvičení, resp. krátkymi písomkami.
