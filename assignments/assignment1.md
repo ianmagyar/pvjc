@@ -15,4 +15,6 @@ Zadanie môžete odovzdať do 4. 12. 23:59, forma odovzdania bude určená cvič
 
 Za zadanie môžete získať celkovo 10 bodov. Pri nedodržaní princípu enkapsulácie (členské premenné iné ako `private` alebo `protected` v nadtriede), z hodnotenia vám bude stiahnutých 20 percent bodov. Za veľké množstvo opakujúceho sa kódu (nevyužitie metód) prídete o 10 percent bodov. Napríklad ak implementujete funkcionalitu za 8 bodov, ale nedodržali ste enkapsuláciu a nevyužívate efektívne metódy, reálne získate iba 70 percent získaných bodov, teda 5,6.
 
+**Update:** Ak odovzdané riešenie bude obsahovať chyby alebo nebude out-of-the-box (teda bude potrebné ho upravovať pred spustením a testovaním), rovnako prídete o 20 percent svojich bodov.
+
 Riešenie môžete rozšíriť o maximálne dve stratégie nakupovania, za každú môžete získať jeden bonusový bod. Dodatočné triedy ale prekonzultujte s cvičiacim, aby funkcionalita triedy bola vhodná bonusového bodu. Nakupujúci typu *nič nenakúpim* nebude hodnotený.

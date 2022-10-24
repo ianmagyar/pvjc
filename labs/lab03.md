@@ -75,7 +75,7 @@ Po opätovnom spustení hry namiesto čierneho pozadia teraz uvidíte mapu.
 
 ## 4. krok: Actors, Actors Everywhere
 
-S herným prostredím dokážete komunikovať pomocou rôznych rozhraní, jedným z nich je `Actor`. V tejto prvej časti sme pre vás pripravili abstraktnú triedu `AbstractActor`, ktorá už časti tohto rozhrania implementuje.
+S herným prostredím dokážete komunikovať pomocou rôznych rozhraní, jedným z nich je `IActor`. V tejto prvej časti sme pre vás pripravili abstraktnú triedu `AbstractActor`, ktorá už časti tohto rozhrania implementuje.
 
 Vytvorte si novú triedu ktorá bude predstavovať kotlík `Cauldron`, ktorá bude rozširovať `AbstractActor`. Aby projekt bol lepšie štrukturovaný, vytvorte nový priečinok `actors`, do ktorého pridáte nový súbor, v ktorom zadefinujete triedu `Cauldron`. Súbor zvyčajne nesie názov triedy a takto sa vygeneruje defaultná prázdna trieda. Rozširovanie triedy `AbstractActor` vyriešime cez dedenie, t.j. po názve triedy zadáme triedu, od ktorej dedíme nasledovne:
 
