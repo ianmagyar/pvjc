@@ -30,7 +30,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, v utorok o 10:50 a v stredu o 7:30, vš
 | 3. týždeň<br>10. 10. - 16. 10.  | [Prvé kroky vo vývoji hry](labs/lab03.md)               | [Dedičnosť a polymorfizmus](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/Lecture03.zip))    |
 | 4. týždeň<br>17. 10. - 23. 10.  | [Prepojenie aktérov a Observer](labs/lab04.md)          | [Abstraktné triedy a rozhrania](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/Lecture04.zip))                           |
 | 5. týždeň<br>24. 10. - 30. 10.  | [Projekt sa rozrastá](labs/lab05.md)                    | [Polymorfizmus v OOP](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/Lecture05.zip))                                     |
-| 6. týždeň<br>31. 10. - 6. 11.   | sviatok/voľno                                           | Vybrané dátové typy v C#                                |
+| 6. týždeň<br>31. 10. - 6. 11.   | sviatok/voľno                                           | [Údajové štruktúry a typy v](lectures/Lecture-06.pdf) C#                                |
 | 7. týždeň<br>7. 11. - 13. 11.   | Typové parametre, lambda výrazy                         | Generické programovanie                                 |
 | 8. týždeň<br>14. 11. - 20. 11.  | Mapa, factory method                                    | voľno                                                   |
 | 9. týždeň<br>21. 11. - 27. 11.  | Builder                                                 | Spracovanie výnimiek                                    |
