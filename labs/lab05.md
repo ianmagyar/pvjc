@@ -82,7 +82,7 @@ Najjednoduchšie by bolo priamo do `Update()` implementovať čítanie klávesni
 
 Zadefinujte interface `IMovable` (nech sa nachádza v namespace `Merlin.Actors`). Toto rozhranie v sebe nebude mať žiadnu funkcionalitu, jedná sa o tzv. *marker interface* - slúži len na odlíšenie tried. Nech `Player` implementuje rozhranie `IMovable`.
 
-V engine máte definovaný ďalšie rozhranie `Command` s metódou `Execute()`:
+V engine máte definované ďalšie rozhranie `Command` s metódou `Execute()`:
 
 ```
 public interface Command

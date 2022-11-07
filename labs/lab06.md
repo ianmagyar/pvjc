@@ -3,7 +3,7 @@
 ## 1. krok: There are No Ghosts Here
 Nami vytvorená implementácia pohybu (cez príkaz `Move`) zatiaľ neriešila kolíziu s prostredím. Napriek tomu, že už od nepamäti poznáme spôsob, ako prechádzať cez steny (nazvali ho dvere), v hre by bolo dobré implementovať funkcionalitu, ktorá postave zabráni v pohybe cez stenu.
 
-Každý actor v sebe udržuje referenciu na svet, v ktorom existuje. Viete sa k nej dostať cez metódu `GetWorld()`. Svet má v sebe uložených všetkých actorov a takiež pozná rozloženie mapy - máte dostupnú metódu `bool IntersectsWithWall(IActor)`, ktorá vracia hodnotu `false` ak animácia niektorého aktéra pretína stenu. Použite túto metódu a doplňte implementáciu tak, aby sa pomocou `Move` nedalo prejsť cez stenu.
+Každý actor v sebe udržuje referenciu na svet, v ktorom existuje. Viete sa k nej dostať cez metódu `GetWorld()`. Svet má v sebe uložených všetkých actorov a takiež pozná rozloženie mapy - máte dostupnú metódu `bool IntersectsWithWall(IActor)`, ktorá vracia hodnotu `true` ak animácia niektorého aktéra pretína stenu. Použite túto metódu a doplňte implementáciu tak, aby sa pomocou `Move` nedalo prejsť cez stenu.
 
 ## 2. krok: Newton's Legacy
 
