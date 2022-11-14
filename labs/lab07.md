@@ -83,7 +83,7 @@ Návrhové vzory [*Factory Method*](https://en.wikipedia.org/wiki/Factory_method
 
 Metóda definuje parametre očakávaný typ objektu, ďalší je jeho meno a následne sú uvedené jeho pozície. V metóde zatiaľ vytvorte inštanciu triedy `Player` na základe druhého parametra (meno postavy, pričom viete že hlavná postava sa bude volať `Merlin`). Alternatívne môžete použiť aj typ postavy (prvý parameter `actorType` - tu očakávame actora typu `Player`) Keďže všetky triedy, ktoré *Factory Method* vytvára musia mať spoločný interface, môžeme na tomto mieste využiť polymorfizmus (návratový typ `IActor`).
 
-Metódu `Create` nemusíte volať nikde, automaticky to urobí samotná hra. Po supstení však hráča stále nemáme, potrebujeme k tomu upraviť aj mapu.
+Metódu `Create` nemusíte volať nikde, automaticky to urobí samotná hra. Po spustení však hráča stále nemáme, potrebujeme k tomu upraviť aj mapu.
 
 ## 3. krok: tmx
 
@@ -113,7 +113,7 @@ Zapojte tu svoju tvorivosť. Zatiaľ stačí ale, ak pridáte hráča nasledovn�
 K úspešnému načítaniu potrebujete ešte nastaviť factory pre hru, metóda `Main` môže vyzerať nasledovne:
 
 ```
-GameContainer container = new GameContainer("Game window", 500, 500); //constructor, creates new instance of the game
+GameContainer container = new GameContainer("Game window", 500, 500);
 
 container.SetMap("resources/maps/map01.tmx");
 container.GetWorld().SetPhysics(new Gravity());
