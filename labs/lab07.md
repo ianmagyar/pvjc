@@ -27,7 +27,7 @@ Vytvorte si abstraktnú triedu `AbstractActor` v priečinku `Actors` ktorá bude
 * `void SetPosition(int posX, int posY)` - nastaví pozíciu postavy
 * `void OnAddedToWorld(IWorld world)` - nastaví referenciu na svet v ktorom sa actor pohybuje - volané automaticky z `GameWorld`
 * `IWorld GetWorld()` - vracia referenciu na svet actora
-* `IAnimation GetAnimation()`, `void SetAnimation(IAnimation animation)` - umožňujú prístup k animácii
+* `Animation GetAnimation()`, `void SetAnimation(Animation animation)` - umožňujú prístup k animácii
 * `bool IntersectsWithActor(IActor other)` - zistí kolíziu s iným actorom, ktorý dostane ako parameter. Aby došlo ku kolízii, stačí aby sa animácie prekrývali v jednom bode, pričom predpokladáme, že obidvaja actori majú tvar obdĺžnika (bounding box).
 * `void SetPhysics(bool isPhysicsEnabled)`, `bool IsAffectedByPhysics()` - informácie o fyzike ktorá ovplyvňuje postavu (napr. gravitácia)
 * `void RemoveFromWorld()` - slúži na nastavenie príznaku, či daný actor má byť zo sveta odstránený. Všetci označení actori sú na konci iterácie v hernej slučke odstránení naraz.
