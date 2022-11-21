@@ -2,6 +2,8 @@
 
 Na minulom cvičení ste vytvorili nový projekt, do ktorého ste pridali triedu `AbstractActor` pre definíciu spoločnej funkcionality actorov. Na tomto cvičení rozšírime niektorých actorov o stratégiu pohybu a do hry pridáme aj kúzla pomocou nových návrhových vzorov.
 
+[Projekt z minulého týždňa je dostupný tu.](lab08/week8.zip)
+
 ## 1. krok: Gimme a Plan
 
 `Player` a `Enemy` zatiaľ majú spoločné rozhranie triedy cez `AbstractActor`, majú však aj špeciálne vlastnosti ktoré ich rozlišujú od ostatných actorov. Na rozdiel od predmetov (kotlík, pec, kryštál, zdroj) sa totiž hýbu a okrem toho by v ozajstnej hre podobné postavy mali aj život. Naším cieľom v tomto kroku je pridať tieto vlastnosti cez best practice návrhové vzory.
