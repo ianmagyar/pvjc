@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10 a 10:50, v utorok o 10:50 a v stredu o 7:30, vš
 | 6. týždeň<br>31. 10. - 6. 11.   | sviatok/voľno                                           | [Údajové štruktúry a typy v C#](lectures/Lecture-06.pdf)                                |
 | 7. týždeň<br>7. 11. - 13. 11.   | [Gravitácia a ďalšie komplikácie](labs/lab06.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
 | 8. týždeň<br>14. 11. - 20. 11.  | [Nový začiatok, Factory a mapa](labs/lab07.md)          | voľno                                                   |
-| 9. týždeň<br>21. 11. - 27. 11.  | Builder                                                 | Spracovanie výnimiek                                    |
+| 9. týždeň<br>21. 11. - 27. 11.  | [Stratégie a buildery](labs/lab08.md)                   | Spracovanie výnimiek                                    |
 | 10. týždeň<br>28. 11. - 4. 12.  | Súbory, operátory                                       | Vzťahy medzi triedami <br> Kreačné návrhové vzory       |
 | 11. týždeň<br>5. 12. - 11. 12.  | Iterátor                                                | Štrukturálne a behaviorálne návrhové vzory              |
 | 12. týždeň<br>12. 12. - 18. 12. | Odovzdávanie zadania 2                                  | Práca so súbormi, LINQ, multitasking                    |
