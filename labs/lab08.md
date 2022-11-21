@@ -35,6 +35,7 @@ Do existujúceho rozhrania `IMovable` pridajte nasledujúce metódy:
 ```
 void SetSpeedStrategy(ISpeedStrategy strategy);
 double GetSpeed(double speed);
+double GetSpeed();
 ```
 
 Triedu `Move` upravte tak, aby pracovala s desatinnými číslami. Rýchlosť sa už nebude udávať v konštruktore, ale bude pýtaný od `IMovable` objektu. Keďže pozícia actora musí byť celé číslo, zabezpečte, aby sa rozdiel akumuloval a následne pripočítal keď dosiahne 1.
