@@ -34,8 +34,8 @@ Cvičenia sú v pondelok o 9:10 a 10:50, v utorok o 10:50 a v stredu o 7:30, vš
 | 7. týždeň<br>7. 11. - 13. 11.   | [Gravitácia a ďalšie komplikácie](labs/lab06.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
 | 8. týždeň<br>14. 11. - 20. 11.  | [Nový začiatok, Factory a mapa](labs/lab07.md)          | voľno                                                   |
 | 9. týždeň<br>21. 11. - 27. 11.  | [Stratégie a buildery](labs/lab08.md)                   | [Spracovanie výnimiek](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/Lecture08.zip))  |
-| 10. týždeň<br>28. 11. - 4. 12.  | [Súbory a operátory](labs/lab09.md)                     | Vzťahy medzi triedami <br> Kreačné návrhové vzory       |
-| 11. týždeň<br>5. 12. - 11. 12.  | Iterátor                                                | Štrukturálne a behaviorálne návrhové vzory              |
+| 10. týždeň<br>28. 11. - 4. 12.  | [Súbory a operátory](labs/lab09.md)                     | [Ukážkový projekt](lectures/codes/FileReaderDemo.zip) <br> [Vzťahy medzi triedami](lectures/Lecture-09.pdf)       |
+| 11. týždeň<br>5. 12. - 11. 12.  | Iterátor                                                | [Návrhové vzory](lectures/Lecture-10.pdf)               |
 | 12. týždeň<br>12. 12. - 18. 12. | Odovzdávanie zadania 2                                  | Práca so súbormi, LINQ, multitasking                    |
 | 13. týždeň<br>19. 12. - 25. 12. | Odovzdávanie zadania 2                                  | zápočtový týždeň                                        |
 
