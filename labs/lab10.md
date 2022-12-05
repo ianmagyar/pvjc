@@ -29,6 +29,8 @@ Vytvorte si triedu `Backpack` (nech implementuje rozhranie `IInventory` z knižn
 * Metódy `ShiftRight` a `ShiftLeft` posunú prvky v batohu. Nezabudnite preniesť prvok medzi koncom a začiatkom.
 * Na zobrazenie hráčovho batohu použite `World.ShowInventory(IInventory)`.
 
+Do hry priraďte hráčovi (`Player`) batoh (`Backpack`) a umožnite mu zobrať si veci a uložiť ich do batohu. Pri použití nejakej veci (`Use`) by sa hráč mal snažiť primárne použiť vec, ktorej sa dotýka, avšak ak takú vec vo svete nenájdete, tak použite dostupný predmet z batohu (nezabudnite, že v batohu sa vždy použije buď prvý alebo posledný prvok). Ak batoh je prázdny, alebo dostupný predmet sa momentálne nedá použiť, ignorujte vstup od používateľa. Takisto pridajte klávesovú skratku pre posúvanie objektov v batohu.
+
 **Poznámka:** Pole má v sebe stále rovnaký počet prvkov, a aj keď sú `null`, `yield return` ich vráti. Zabezpečte, aby sa cyklus ukončil, keď sa nájde hodnota `null` (všetky predmety by mali byť uložené vedľa seba).
 
 **Poznámka 2:** [Pri práci s poľami sa môžete inšpirovať metódami ponúkanými samotným jazykom C#.](https://learn.microsoft.com/en-us/dotnet/api/system.array?view=net-6.0)
