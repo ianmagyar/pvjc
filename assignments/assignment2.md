@@ -47,6 +47,7 @@ Ak zadanie nestihnete obhájiť do konca semestra (23. 12.), máte nárok na opr
 │  ├─ Commands/
 │  ├─ Items/
 │  ├─ resources/
+│  ├─ Spells/
 │  ├─ <ProjectFile>.csproj
 │  └─ Program.cs
 ├─ .gitignore
