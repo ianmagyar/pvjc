@@ -11,7 +11,7 @@ Prednášajúci predmetu:
 Cvičiaci predmetu:
 
 * [Ing. Ján Magyar, PhD.](http://www.cloudai.sk/people-janmagyar/)
-* Ing. Kristián Mičko
+* [Ing. Kristián Mičko](https://kristian.micko.website.tuke.sk/)
 
 ## Obsah
 1. [Plán prednášok](#plan)
