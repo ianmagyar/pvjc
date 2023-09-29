@@ -25,7 +25,7 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 
 |              Týždeň             |                         Cvičenie                        |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| 1. týždeň<br>25. 9. - 1. 10.    | [Úvodné informácie](lectures/Lecture-00.pdf) <br> [Základy jazyka C#](labs/lab01.md)                    | Úvod <br> Základy jazyka C# a OOP                       |
+| 1. týždeň<br>25. 9. - 1. 10.    | [Úvodné informácie](lectures/Lecture-00.pdf) <br> [Základy jazyka C#](labs/lab01.md)                    | [Úvod](lectures/Lecture-00.pdf) <br> [Základy jazyka C# a OOP](lectures/Lecture-01.pdf)                       |
 | 2. týždeň<br>2. 10. - 8. 10.    | Riešenie sudoku v jazyku C#                             | Konštruktory a enkapsulácia                             |
 | 3. týždeň<br>9. 10. - 15. 10.   | Prvé kroky vo vývoji hry                                | Dedičnosť a polymorfizmus                               |
 | 4. týždeň<br>16. 10. - 22. 10.  | Prepojenie aktérov a observer                           | Abstraktné triedy a rozhrania                           |
