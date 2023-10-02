@@ -41,7 +41,9 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 
 ## Hodnotenie <a name="grading"></a>
 
-* Zadanie 1 (publikované v 2. týždni; deadline: 27. 10. 2023)
+* [Zadanie 1](assignments/A1.pdf) (publikované v 2. týždni; deadline: 27. 10. 2023)
+    * [kostra riešenia](assignments/Assignment1.zip)
+
 * Zadanie 2 (publikované v 6. týždni; deadline: 24. 11. 2023)
 * Zadanie 3 (publikované v 10. týždni; deadline: 22. 12. 2023)
 
