@@ -29,7 +29,7 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 | 2. týždeň<br>2. 10. - 8. 10.    | [Riešenie sudoku v jazyku C#](labs/lab02.md)            | [Konštruktory a enkapsulácia](lectures/Lecture-02.pdf) <br> ([kód z prednášky](lectures/codes/Lecture02.zip))                             |
 | 3. týždeň<br>9. 10. - 15. 10.   | [Prvé kroky vo vývoji hry](labs/lab03.md)               | [Dedičnosť a polymorfizmus](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/Lecture03.zip))                               |
 | 4. týždeň<br>16. 10. - 22. 10.  | [Prepojenie aktérov a observer](labs/lab04.md)                           | [Abstraktné triedy a rozhrania](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/Lecture04.zip)                           |
-| 5. týždeň<br>23. 10. - 29. 10.  | Štruktúra projektu a abstraktné triedy                  | Polymorfizmus v OOP                                     |
+| 5. týždeň<br>23. 10. - 29. 10.  | [Štruktúra projektu a abstraktné triedy](labs/lab05.md)                  | Polymorfizmus v OOP                                     |
 | 6. týždeň<br>30. 10. - 5. 11.   | sviatok/voľno                                           | sviatok/voľno                                           |
 | 7. týždeň<br>6. 11. - 12. 11.   | Gravitácia a ďalší nepriatelia                          | Údajové štruktúry a typy v C#                           |
 | 8. týždeň<br>13. 11. - 19. 11.  | Factory a mapa                                          | Generické programovanie                                 |

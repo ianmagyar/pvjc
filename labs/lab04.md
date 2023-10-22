@@ -83,7 +83,7 @@ Vaše riešenie upravte nasledovne:
 * `PowerSwitch` nech implementuje `IObservable`;
 * v `PowerSwitch` si udržiavajte referenciu na žiarovku - keď sa zmení stav `PowerSwitch`, dajte o tom žiarovke vedieť. Ako typ referencie využite rozhranie `IObserver`, a na notifikáciu príslušnú metódu.
 
-Funkcionalitu viete otestovať úpravou kódu vo funkcii `Main()`: zaregistrujte žiarovku ako odberateľa vypínača, a na začiatku programu zapnite iba vypínač. Žiarovka sa zapne automaticky.
+Funkcionalitu viete otestovať úpravou kódu v triede `Game1`: zaregistrujte žiarovku ako odberateľa vypínača, a na začiatku programu zapnite iba vypínač. Žiarovka sa zapne automaticky.
 
 ## 3. krok: My Command Is Your Wish
 
