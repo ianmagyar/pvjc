@@ -32,8 +32,8 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 | 5. týždeň<br>23. 10. - 29. 10.  | [Štruktúra projektu a abstraktné triedy](labs/lab05.md)                  | [Polymorfizmus v OOP](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/Lecture05.zip)                                     |
 | 6. týždeň<br>30. 10. - 5. 11.   | sviatok/voľno                                           | sviatok/voľno                                           |
 | 7. týždeň<br>6. 11. - 12. 11.   | [Pohľad pod kapotu](labs/lab06.md)                      | [Údajové štruktúry a typy v C#](lectures/Lecture-06.pdf)      |
-| 8. týždeň<br>13. 11. - 19. 11.  | [Gravitácia a ďalšie komplikácie](labs/lab07.md)        | Generické programovanie                                 |
-| 9. týždeň<br>20. 11. - 26. 11.  | Stratégie                                               | Spracovanie výnimiek                                    |
+| 8. týždeň<br>13. 11. - 19. 11.  | [Gravitácia a ďalšie komplikácie](labs/lab07.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip)                                 |
+| 9. týždeň<br>20. 11. - 26. 11.  | [Stratégie](labs/lab08.md)                              | Spracovanie výnimiek                                    |
 | 10. týždeň<br>27. 11. - 3. 12.  | Builder                                                 | Vzťahy medzi triedami, kreačné návrhové vzory           |
 | 11. týždeň<br>4. 12. - 10. 12.  | Súbory, steny a prekážky                                | Štrukturálne návrhové vzory                             |
 | 12. týždeň<br>11. 12. - 17. 12. | Inventár                                                | Behaviorálne návrhové vzory                             |
