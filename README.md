@@ -33,7 +33,7 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 | 6. týždeň<br>30. 10. - 5. 11.   | sviatok/voľno                                           | sviatok/voľno                                           |
 | 7. týždeň<br>6. 11. - 12. 11.   | [Pohľad pod kapotu](labs/lab06.md)                      | [Údajové štruktúry a typy v C#](lectures/Lecture-06.pdf)      |
 | 8. týždeň<br>13. 11. - 19. 11.  | [Gravitácia a ďalšie komplikácie](labs/lab07.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
-| 9. týždeň<br>20. 11. - 26. 11.  | [Stratégie](labs/lab08.md)                              | Spracovanie výnimiek                                    |
+| 9. týždeň<br>20. 11. - 26. 11.  | [Stratégie](labs/lab08.md)                              | [Spracovanie výnimiek](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/Lecture08.zip), [ukážkový projekt](lectures/codes/FileReaderDemo.zip))                                    |
 | 10. týždeň<br>27. 11. - 3. 12.  | Builder                                                 | Vzťahy medzi triedami, kreačné návrhové vzory           |
 | 11. týždeň<br>4. 12. - 10. 12.  | Súbory, steny a prekážky                                | Štrukturálne návrhové vzory                             |
 | 12. týždeň<br>11. 12. - 17. 12. | Inventár                                                | Behaviorálne návrhové vzory                             |
@@ -44,7 +44,7 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 * [Zadanie 1](assignments/A1.pdf) (publikované v 2. týždni; deadline: 27. 10. 2023)
     * [kostra riešenia](assignments/Assignment1.zip)
 
-* [Zadanie 2](assignments/A2.pdf) (publikované v 6. týždni; deadline: 24. 11. 2023)
+* [Zadanie 2](assignments/A2.pdf) (publikované v 6. týždni; deadline: 1. 12. 2023)
     * [kostra riešenia](assignments/Assignment2.zip)
 
 * Zadanie 3 (publikované v 10. týždni; deadline: 22. 12. 2023)
