@@ -52,7 +52,7 @@ public interface IWizard : IActor
 public interface ISpellBuilder
 {
     ISpellBuilder AddEffect(string effectName);
-    ISpellBuilder SetTexture(Texture2D animation); //unused for self-cast spells
+    ISpellBuilder SetTexture(Texture2D texture); //unused for self-cast spells
     ISpellBuilder SetSpellCost(int cost);
     ISpell CreateSpell(IWizard wizard); // reference to the wizard doing the spell
 }
@@ -124,7 +124,7 @@ Upravte triedu `Player` tak, aby implementovala rozhranie `IWizard`, a pridajte 
 **Poznámka:** Opätovné použitie návratového typu `ISpellBuilder` v rozhraní `ISpellBuilder` nám umožňuje postupnú definíciu kúzla zápisom:
 
 ```
-builder.AddEffect("use cycle").AddEffect("for effects").SetAnimation(animation).SetSpellCost(cost).CreateSpell()
+builder.AddEffect("use cycle").AddEffect("for effects").SetTexture(texture).SetSpellCost(cost).CreateSpell()
 ```
 
 Takýto zápis sa nazýva *fluent API*, a je možný aj pri `ISpell.AddEffect()`.
