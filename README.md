@@ -35,7 +35,7 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 | 8. týždeň<br>13. 11. - 19. 11.  | [Gravitácia a ďalšie komplikácie](labs/lab07.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
 | 9. týždeň<br>20. 11. - 26. 11.  | [Stratégie](labs/lab08.md)                              | [Spracovanie výnimiek](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/Lecture08.zip), [ukážkový projekt](lectures/codes/FileReaderDemo.zip))                                    |
 | 10. týždeň<br>27. 11. - 3. 12.  | [Builder](labs/lab09.md)                                | [Vzťahy medzi triedami](lectures/Lecture-09.pdf) <br> [Kreačné návrhové vzory](lectures/Lecture-10.pdf)           |
-| 11. týždeň<br>4. 12. - 10. 12.  | [Súbory, steny a prekážky](labs/lab10.md)               | Štrukturálne návrhové vzory                             |
+| 11. týždeň<br>4. 12. - 10. 12.  | [Súbory, steny a prekážky](labs/lab10.md)               | [Štrukturálne návrhové vzory](lectures/Lecture-11.pdf)                             |
 | 12. týždeň<br>11. 12. - 17. 12. | Inventár                                                | Behaviorálne návrhové vzory                             |
 | 13. týždeň<br>18. 12. - 24. 12. | zápočtový týždeň                                        | zápočtový týždeň                                        |
 
