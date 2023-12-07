@@ -47,7 +47,8 @@ Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, vš
 * [Zadanie 2](assignments/A2.pdf) (publikované v 6. týždni; deadline: 1. 12. 2023)
     * [kostra riešenia](assignments/Assignment2.zip)
 
-* Zadanie 3 (publikované v 10. týždni; deadline: 22. 12. 2023)
+* [Zadanie 3](assignments/A3.pdf) (publikované v 10. týždni; deadline: 22. 12. 2023)
+    * [kostra riešenia](assignments/Assignment3.zip)
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
