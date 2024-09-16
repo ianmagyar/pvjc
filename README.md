@@ -6,12 +6,12 @@ Informačný list predmetu je dostupný na [školskom portáli](https://maisport
 
 Prednášajúci predmetu:
 
-* [Ing. Ján Magyar, PhD.](http://www.cloudai.sk/people-janmagyar/)
+* [Ing. Ján Magyar, PhD.](https://cit.fei.tuke.sk/people-janmagyar/)
 
 Cvičiaci predmetu:
 
-* [Ing. Ján Magyar, PhD.](http://www.cloudai.sk/people-janmagyar/)
-* [M.Eng. Dominik Vranay](https://www.cloudai.sk/people-dominikvranay/)
+* Bc. Yehor Nepokrytyi
+* Bc. Jakub Suďa
 
 ## Obsah
 1. [Plán prednášok](#plan)
@@ -19,36 +19,31 @@ Cvičiaci predmetu:
 3. [Použitá literatúra](#literature)
 
 ## Plán prednášok <a name="plan"></a>
-Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Prítomnosť nie je povinná.
-
-Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, všetky v miestnosti PK6_108 - PC17. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení alebo inou formou po dohode s cvičiacim.
+Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v pondelok o 9:10, v utorok o 10:50 a v stredu o 7:30 a 15:10, všetky v miestnosti PK6_108 - PC17. Účasť na cvičeniach je povinná, študent môže mať maximálne tri neúčasti za semester. Neúčasť môžete nahradiť účasťou na inom cvičení alebo inou formou po dohode s cvičiacim.
 
 |              Týždeň             |                         Cvičenie                        |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| 1. týždeň<br>25. 9. - 1. 10.    | [Úvodné informácie](lectures/Lecture-00.pdf) <br> [Základy jazyka C#](labs/lab01.md)                    | [Úvod](lectures/Lecture-00.pdf) <br> [Základy jazyka C# a OOP](lectures/Lecture-01.pdf)                       |
-| 2. týždeň<br>2. 10. - 8. 10.    | [Riešenie sudoku v jazyku C#](labs/lab02.md)            | [Konštruktory a enkapsulácia](lectures/Lecture-02.pdf) <br> ([kód z prednášky](lectures/codes/Lecture02.zip))                             |
-| 3. týždeň<br>9. 10. - 15. 10.   | [Prvé kroky vo vývoji hry](labs/lab03.md)               | [Dedičnosť a polymorfizmus](lectures/Lecture-03.pdf) <br> ([kód z prednášky](lectures/codes/Lecture03.zip))                               |
-| 4. týždeň<br>16. 10. - 22. 10.  | [Prepojenie aktérov a observer](labs/lab04.md)                           | [Abstraktné triedy a rozhrania](lectures/Lecture-04.pdf) <br> ([kód z prednášky](lectures/codes/Lecture04.zip))                           |
-| 5. týždeň<br>23. 10. - 29. 10.  | [Štruktúra projektu a abstraktné triedy](labs/lab05.md)                  | [Polymorfizmus v OOP](lectures/Lecture-05.pdf) <br> ([kód z prednášky](lectures/codes/Lecture05.zip))                                     |
-| 6. týždeň<br>30. 10. - 5. 11.   | sviatok/voľno                                           | sviatok/voľno                                           |
-| 7. týždeň<br>6. 11. - 12. 11.   | [Pohľad pod kapotu](labs/lab06.md)                      | [Údajové štruktúry a typy v C#](lectures/Lecture-06.pdf)      |
-| 8. týždeň<br>13. 11. - 19. 11.  | [Gravitácia a ďalšie komplikácie](labs/lab07.md)        | [Generické programovanie](lectures/Lecture-07.pdf) <br> ([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
-| 9. týždeň<br>20. 11. - 26. 11.  | [Stratégie](labs/lab08.md)                              | [Spracovanie výnimiek](lectures/Lecture-08.pdf) <br> ([kód z prednášky](lectures/codes/Lecture08.zip), [ukážkový projekt](lectures/codes/FileReaderDemo.zip))                                    |
-| 10. týždeň<br>27. 11. - 3. 12.  | [Builder](labs/lab09.md)                                | [Vzťahy medzi triedami](lectures/Lecture-09.pdf) <br> [Kreačné návrhové vzory](lectures/Lecture-10.pdf)           |
-| 11. týždeň<br>4. 12. - 10. 12.  | [Súbory, steny a prekážky](labs/lab10.md)               | [Štrukturálne návrhové vzory](lectures/Lecture-11.pdf)  |
-| 12. týždeň<br>11. 12. - 17. 12. | [Inventár](labs/lab11.md)                               | [Behaviorálne návrhové vzory](lectures/Lecture-12.pdf)  |
-| 13. týždeň<br>18. 12. - 24. 12. | zápočtový týždeň                                        | zápočtový týždeň                                        |
+| 1. týždeň<br>25. 9. - 1. 10.    | Úvodné informácie <br> Základy jazyka C#                | Základy jazyka C# a OOP                                 |
+| 2. týždeň<br>2. 10. - 8. 10.    | Riešenie sudoku v jazyku C#                             | Konštruktory a enkapsulácia                             |
+| 3. týždeň<br>9. 10. - 15. 10.   | Prvé kroky vo vývoji hry                                | Dedičnosť a polymorfizmus                               |
+| 4. týždeň<br>16. 10. - 22. 10.  | Prepojenie aktorov a observer                           | Abstraktné triedy a rozhrania                           |
+| 5. týždeň<br>23. 10. - 29. 10.  | Štruktúra projektu a abstraktné triedy                  | Polymorfizmus v OOP                                     |
+| 6. týždeň<br>30. 10. - 5. 11.   | Commandy a refaktorizácia                               | Údajové štruktúry v C#                                  |
+| 7. týždeň<br>6. 11. - 12. 11.   | Svet a jeho gravitácia                                  | Tipy a triky v C#                                       |
+| 8. týždeň<br>13. 11. - 19. 11.  | Stratégie                                               | Generické programovanie                                 |
+| 9. týždeň<br>20. 11. - 26. 11.  | Kúzla a buildery pt. I                                  | Spracovanie výnimiek                                    |
+| 10. týždeň<br>27. 11. - 3. 12.  | Kúzla a buildery pt. II                                 | UML diagramy, kreačné návrhové vzory                    |
+| 11. týždeň<br>4. 12. - 10. 12.  | Súbory, steny a prekážky                                | Štrukturálne návrhové vzory                             |
+| 12. týždeň<br>11. 12. - 17. 12. | Iterátor a posledné úpravy                              | Behaviorálne návrhové vzory                             |
+| 13. týždeň<br>18. 12. - 24. 12. | zápočtový týždeň                                        | Vlákna a synchronizácia                                 |
 
 ## Hodnotenie <a name="grading"></a>
 
-* [Zadanie 1](assignments/A1.pdf) (publikované v 2. týždni; deadline: 27. 10. 2023)
-    * [kostra riešenia](assignments/Assignment1.zip)
+* Zadanie 1 (publikované v 1. týždni; deadline: 27. 10. 2024)
 
-* [Zadanie 2](assignments/A2.pdf) (publikované v 6. týždni; deadline: 1. 12. 2023)
-    * [kostra riešenia](assignments/Assignment2.zip)
+* Zadanie 2 (publikované v 6. týždni; deadline: 24. 11. 2024)
 
-* [Zadanie 3](assignments/A3.pdf) (publikované v 10. týždni; deadline: 22. 12. 2023)
-    * [kostra riešenia](assignments/Assignment3.zip)
+* Zadanie 3 (publikované v 10. týždni; deadline: 22. 12. 2024)
 
 Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získať viac ako polovicu bodov zo zápočtu a zo skúšky.
 
