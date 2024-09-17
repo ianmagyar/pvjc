@@ -10,7 +10,7 @@ Prednášajúci predmetu:
 
 Cvičiaci predmetu:
 
-* Bc. Yehor Nepokrytyi
+* Ing. Ľubomír Urblík
 * Bc. Jakub Suďa
 
 ## Obsah
