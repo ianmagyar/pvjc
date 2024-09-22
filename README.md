@@ -23,7 +23,7 @@ Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v ponde
 
 |              Týždeň             |                         Cvičenie                        |                         Prednáška                       |
 |:-------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| 1. týždeň<br>23. 9. - 29. 9.    | Úvodné informácie <br> Základy jazyka C#                | Základy jazyka C# a OOP                                 |
+| 1. týždeň<br>23. 9. - 29. 9.    | [Úvodné informácie](lectures/Lecture-00.pdf) <br> [Základy jazyka C#](labs/lab01.md)                | Základy jazyka C# a OOP                                 |
 | 2. týždeň<br>30. 9. - 6. 10.    | Riešenie sudoku v jazyku C#                             | Konštruktory a enkapsulácia                             |
 | 3. týždeň<br>7. 10. - 13. 10.   | Prvé kroky vo vývoji hry                                | Dedičnosť a polymorfizmus                               |
 | 4. týždeň<br>14. 10. - 20. 10.  | Prepojenie aktorov a observer                           | Abstraktné triedy a rozhrania                           |
@@ -39,7 +39,8 @@ Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v ponde
 
 ## Hodnotenie <a name="grading"></a>
 
-* Zadanie 1 (publikované v 1. týždni; deadline: 27. 10. 2024)
+* [Zadanie 1](assignments/Zadanie1.pdf) (publikované v 1. týždni; deadline: 27. 10. 2024)
+    * [kostra riešenia](assignments/Assignment1.zip)
 
 * Zadanie 2 (publikované v 6. týždni; deadline: 24. 11. 2024)
 
