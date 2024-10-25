@@ -28,7 +28,7 @@ Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v ponde
 | 3. týždeň<br>7. 10. - 13. 10.   | [Prvé kroky vo vývoji hry](labs/lab03.md)               | [Dedičnosť a polymorfizmus](lectures/Lecture-03.pdf)<br>([kód z prednášky](lectures/codes/Lecture03.zip))                               |
 | 4. týždeň<br>14. 10. - 20. 10.  | [Prepojenie aktorov a observer](labs/lab04.md)          | [Abstraktné triedy a rozhrania](lectures/Lecture-04.pdf)<br>([kód z prednášky](lectures/codes/Lecture04.zip))                           |
 | 5. týždeň<br>21. 10. - 27. 10.  | [Štruktúra projektu a abstraktné triedy](labs/lab05.md)                  | Polymorfizmus v OOP                                     |
-| 6. týždeň<br>28. 10. - 3. 11.   | Commandy a refaktorizácia                               | Údajové štruktúry v C#                                  |
+| 6. týždeň<br>28. 10. - 3. 11.   | [Commandy a refaktorizácia](labs/lab06.md)                               | Údajové štruktúry v C#                                  |
 | 7. týždeň<br>4. 11. - 10. 11.   | Svet a jeho gravitácia                                  | Tipy a triky v C#                                       |
 | 8. týždeň<br>11. 11. - 17. 11.  | Stratégie                                               | Generické programovanie                                 |
 | 9. týždeň<br>18. 11. - 24. 11.  | Kúzla a buildery pt. I                                  | Spracovanie výnimiek                                    |
