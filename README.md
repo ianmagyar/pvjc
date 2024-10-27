@@ -42,7 +42,8 @@ Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v ponde
 * [Zadanie 1](assignments/Zadanie1.pdf) (publikované v 1. týždni; deadline: 27. 10. 2024)
     * [kostra riešenia](assignments/Assignment1.zip)
 
-* Zadanie 2 (publikované v 6. týždni; deadline: 24. 11. 2024)
+* [Zadanie 2](assignments/Zadanie2.pdf) (publikované v 6. týždni; deadline: 24. 11. 2024)
+    * [kostra riešenia](assignments/Assignment2.zip)
 
 * Zadanie 3 (publikované v 10. týždni; deadline: 22. 12. 2024)
 
