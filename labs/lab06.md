@@ -104,6 +104,7 @@ bool IsAffectedByPhysics();
 void RemoveFromWorld();
 bool RemovedFromWorld();
 void Update(GameTime gameTime);
+void Draw(SpriteBatch spriteBatch);
 ```
 
 Následne napíšte triedu `AbstractActor`, ktorá implementuje rozhranie `IActor` s nasledovnou funkcionalitou:
