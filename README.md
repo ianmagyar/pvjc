@@ -31,7 +31,7 @@ Prednášky sú v stredu o 9:10 v miestnosti ZP1 (N9-201). Cvičenia sú v ponde
 | 6. týždeň<br>28. 10. - 3. 11.   | [Commandy a refaktorizácia](labs/lab06.md)              | [Údajové štruktúry v C#](lectures/Lecture-06.pdf)                                  |
 | 7. týždeň<br>4. 11. - 10. 11.   | [Svet a jeho gravitácia](labs/lab07.md)                 | [Generické programovanie](lectures/Lecture-07.pdf)<br>([kód z prednášky](lectures/codes/Lecture07.zip))                                 |
 | 8. týždeň<br>11. 11. - 17. 11.  | [Stratégie](labs/lab08.md)                              | [Spracovanie výnimiek](lectures/Lecture-08.pdf)<br>([kód z prednášky](lectures/codes/Lecture08.zip))                                    |
-| 9. týždeň<br>18. 11. - 24. 11.  | Kúzla a buildery pt. I                                  | Tipy a triky v C#                                       |
+| 9. týždeň<br>18. 11. - 24. 11.  | [Kúzla a buildery pt. I](labs/lab09.md)                 | Tipy a triky v C#                                       |
 | 10. týždeň<br>25. 11. - 1. 12.  | Kúzla a buildery pt. II                                 | UML diagramy, kreačné návrhové vzory                    |
 | 11. týždeň<br>2. 12. - 8. 12.   | Súbory, steny a prekážky                                | Štrukturálne návrhové vzory                             |
 | 12. týždeň<br>9. 12. - 15. 12.  | Iterátor a posledné úpravy                              | Behaviorálne návrhové vzory                             |
