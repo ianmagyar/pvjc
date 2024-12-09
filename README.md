@@ -55,6 +55,8 @@ Zápočet sa skladá z troch zadaní a 10 bodov za cvičenia: za všetky zadania
 
 Skúška má teoretickú a praktickú časť. Praktická časť je za 30 bodov, a budete v nej riešiť jednoduché úlohy na programovanie a implementáciu návrhových vzorov. Teoretická časť za 30 bodov je zameraná na aplikáciu získaných teoretických poznatkov pri riešení problémov a je open notes. Pre úspešné ukončenie predmetu musíte získať minimálne polovicu bodov z praktickej aj teoretickej časti skúšky (teda viac ako 15 bodov). V prípade neúspechu opakujete iba tú časť skúšky, v ktorej ste neuspeli.
 
+[Otázky na skúšku nájdete tu.](exam_questions.md)
+
 ## Použitá a odporúčaná literatúra <a name="literature"></a>
 * Christian Nagel: *Professional C# and .Net*. (2021 Edition) John Wiley & Sons, Inc. (2022)
 * Mark J. Price: *C# 8.0 and .NET Core 3.0: Modern Cross-Platform Development*. (4th Edition) Packt Publishing (2022)
